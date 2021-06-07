@@ -12,7 +12,4 @@ function titleCase(charArray) {
 
     titleCase(charArray);
     console.log(output);
-
-
-
         
